@@ -1,0 +1,7 @@
+cvzone
+mediapipe
+tensorflow
+streamlit 
+opencv-python 
+pillow
+`numpy
